@@ -35,6 +35,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 ReleaseVaultName=Hardware & IoT Vault
+VcsMigrated=A808D23F-86B7-4927-8854-8C4B5BCC516E|B5CF2CF8-6E7E-4EFA-AE62-6007F59CD226
 IncludeDesignInRelease=0
 
 [Preferences]
