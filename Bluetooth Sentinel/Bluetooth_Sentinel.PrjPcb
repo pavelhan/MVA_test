@@ -33,6 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=8B142295-565D-4BC3-8A53-AD379D9A591A
+VaultGUID=60168B7A-5A34-43B4-AD5A-869BB65A5348
+ReleaseVaultName=Altium Workspace
+ItemGUID=8B142295-565D-4BC3-8A53-AD379D9A591A
 IncludeDesignInRelease=0
 
 [Preferences]
